@@ -14,7 +14,7 @@
 - I can´t scam you in any way
 - I can report unusual activity on Your account or anything thats harming the Discord TOS
 # Other
-- Bot uses OpenAI as his source of information
+- Bot uses OpenAI as its source of information
 - I can edit code of the discord bot leading into potencial permanent damages to Your server (includes Raid ability) so i recommend back-up Your server
-- You can use other bots that i made. If the bot doesn´t have any page that has terms of condition or privacy policy then this page can use for the bot also
+- You can use other bots that i made. If the bot doesn´t have any page that has terms of condition or privacy policy then this page can used for the bot also
 
